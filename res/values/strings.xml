@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">hellowrold</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">确定</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="secondwnd">这是第二个界面</string>
+    <string name="thirdtitle">this is third activity</string>
+    <string name="closewnd">关闭界面</string>
+    <string name="back">返回</string>
+
+</resources>
